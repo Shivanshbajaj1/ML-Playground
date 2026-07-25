@@ -1,7 +1,20 @@
 # 🤖 ML Playground
 
 An interactive Machine Learning web application built with **Streamlit** and **Scikit-learn**. Upload your own dataset, train machine learning models, compare algorithms, evaluate performance, and download trained models—all from a simple web interface.
+# 🤖 ML Playground
 
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+An interactive Machine Learning web application built with **Streamlit** and **Scikit-learn**.
+
+## 🌐 Live Demo
+
+**https://ml-playground-g3ys9nbggvlkbvpfefmkq5.streamlit.app/**
+
+---
 ---
 
 ## ✨ Features
